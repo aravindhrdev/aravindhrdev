@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aravraj147
 - 👀 I’m interested in coding any programming language and learning developing technologies!
-- 🌱 I’m currently learning C and Java as well as basics for AI and IoT
-- 💞️ I’m looking to collaborate on all aspects of minor coding and tasking challenges
-- 📫 Reach me through insta @1guerilla_guy .
+- 🌱 I’m actively learning MERN Stack and trying to contribute on projects based on it.
+- 💞️ I’m looking to collaborate on all aspects of a project from designing, implementing and testing the codebase.
+- 📫 Reach me through MailId "9003557rre@gmail.com".
 
 <!---
 aravraj147/aravraj147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
