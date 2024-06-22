@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aravraj147
+- 👋 Hi, I’m Aravindh R, a CS Student
 - 👀 I’m interested in coding any programming language and learning developing technologies!
 - 🌱 I’m actively learning MERN Stack and trying to contribute on projects based on it.
 - 💞️ I’m looking to collaborate on all aspects of a project from designing, implementing and testing the codebase.
