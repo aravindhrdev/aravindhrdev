@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aravindh R, a CS Student
-- 👀 I’m interested in coding any programming language and learning developing technologies!
-- 🌱 I’m actively learning MERN Stack and trying to contribute on projects based on it.
-- 💞️ I’m looking to collaborate on all aspects of a project from designing, implementing and testing the codebase.
+- 👀 I’m interested in coding, blogging, git, cloud, and chess
+- 🌱 I’m actively learning Full Stack and trying to contribute to projects based on it.
+- 💞️ I’m looking to collaborate on all aspects of a project from designing, implementing, and testing the codebase.
 - 📫 Reach me through MailId "9003557rre@gmail.com".
 
 <!---
