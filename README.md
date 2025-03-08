@@ -5,7 +5,7 @@
 - 📫 Reach me through MailId "9003557rre@gmail.com".
 
 <!---
-aravraj147/aravraj147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aravindhrdev/aravindhrdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
